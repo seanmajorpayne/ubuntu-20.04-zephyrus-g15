@@ -92,3 +92,6 @@ sudo reboot
   2. Unplug the charger.
   3. Power up and boot into Ubuntu.
   4. (optional) Plug back the charger.
+
+## Credit
+This is derived from a similar guide by Mate (@mkovaxx)

@@ -95,3 +95,9 @@ sudo reboot
 
 ## Credit
 This is derived from a similar guide by Mate (@mkovaxx)
+
+## Troubleshooting
+### The UI lags on a 4k monitor but behaves fine on the laptop screen
+Make sure that the two monitors use the same refresh rate. The laptop monitor
+is likely set at a way higher refresh rate, conflicting with the slower 
+external monitor.

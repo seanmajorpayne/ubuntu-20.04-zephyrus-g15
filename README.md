@@ -13,7 +13,7 @@ Ubuntu 20.04 installation on ROG Zephyrus G15
 
 ## Prepare to Install from USB
 
-1. Turn off drive encryption (BitLocker) in Windows.
+1. Turn off drive encryption (BitLocker) in Windows (if applicable).
 
 2. Turn off fast startup in Windows.
 
